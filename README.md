@@ -9,4 +9,6 @@ In this challenge I will be visualizing and making calculations from medical exa
 2. Break the problem down in to  smaller problems to tackle
 3. Put it all together
 
+Note that the data provided is already cleaned, the process listed above is not what you would typically see in a Data Science project. 
+
 # The Conclusion 
