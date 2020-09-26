@@ -11,4 +11,7 @@ In this challenge I will be visualizing and making calculations from medical exa
 
 Note that the data provided is already cleaned, the process listed above is not what you would typically see in a Data Science project. 
 
+# Repositiry Guide
+**Notebook:** https://github.com/bmor2552/MedicalDataVisualizer/blob/master/Medical_Data_Visualizer.ipynb
 
+**Data:** https://github.com/bmor2552/MedicalDataVisualizer/blob/master/medical_examination.csv
